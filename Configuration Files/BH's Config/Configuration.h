@@ -98,7 +98,7 @@
 
 // Choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_CREALITY_V4
+  #define MOTHERBOARD BOARD_CREALITY_V422
 #endif
 
 /**
